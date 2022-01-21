@@ -22,6 +22,8 @@ focus on the code, not the directory structure.
 ### Executing program
 
 * Super simple. Just run the compiled binary from above and pass an app name as a parameter.
+* Being that the binary is portable it can be moved to any directory you need to 
+execute it in. You can also add the binary to your system path if used a lot.
 ```bash
 ./goWebInit.exe appName
 ```
