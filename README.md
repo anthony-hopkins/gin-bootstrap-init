@@ -32,6 +32,9 @@ execute it in. You can also add the binary to your system path if used a lot.
 ## Authors
 
 Anthony Hopkins
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Version History
 * 0.1
