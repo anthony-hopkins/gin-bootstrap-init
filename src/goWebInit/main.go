@@ -15,9 +15,8 @@ var dirs = map[string]string{
 	"js":          "./public/js",
 	"defines":     "./templates/defines",
 	"views":       "./templates/views",
-	"models":      "./models",
-	"controllers": "./controllers/helpers",
-	"src":         "./src",
+	"models":      "./src/models",
+	"controllers": "./src/controllers",
 	"appName":     fmt.Sprintf("./src/%s", parseAppName()),
 }
 
